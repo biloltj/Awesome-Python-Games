@@ -57,7 +57,7 @@ This repository has been updated to support Python 3.10                         
 
 # 👤 Author & Credits
 **Original Creator: Haris Muneer**
-**Maintained by: ![BilolTJ](https://github.com/biloltj)**
+**Maintained by: BilolTJ**(https://github.com/biloltj)
 
 <p lign="center">Made with ❤️ and Python</p>
 
